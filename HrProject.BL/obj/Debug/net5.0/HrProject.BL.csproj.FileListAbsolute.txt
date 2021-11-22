@@ -1,0 +1,15 @@
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\HrProject.BL.deps.json
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\HrProject.BL.dll
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\ref\HrProject.BL.dll
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\HrProject.BL.pdb
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\HrProject.DAL.dll
+H:\el gendy core\HR\HrProject\HrProject.BL\bin\Debug\net5.0\HrProject.DAL.pdb
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.csproj.AssemblyReference.cache
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.AssemblyInfoInputs.cache
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.AssemblyInfo.cs
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.csproj.CoreCompileInputs.cache
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.csproj.CopyComplete
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.dll
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\ref\HrProject.BL.dll
+H:\el gendy core\HR\HrProject\HrProject.BL\obj\Debug\net5.0\HrProject.BL.pdb

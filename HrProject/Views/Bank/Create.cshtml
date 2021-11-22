@@ -1,0 +1,71 @@
+﻿@model HrProject.BL.Model.BankVM
+@{
+    ViewBag.Title = "Create Bank";
+
+}
+<style>
+    th {
+        text-align: center;
+    }
+</style>
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0"> البنوك</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">شئون الموظفين</a></li>
+                        <li class="breadcrumb-item active">الاكواد العامة</li>
+                        <li class="breadcrumb-item active">البنوك</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <h1>Create CardsType</h1>
+
+    <form asp-controller="Bank" asp-action="Create" method="post" enctype="multipart/form-data" class="form-group">
+
+        <label asp-for="NameArbic">Arabic Name</label>                             @*// asp-for="....." because from model*@
+        <input type="text" asp-for="NameArbic" class="form-control" />
+        <span class="text-danger" asp-validation-for="NameArbic"></span>
+        <br /><br />
+
+        <label asp-for="NameEnglish">Arabic English</label>                             @*// asp-for="....." because from model*@
+        <input type="text" asp-for="NameEnglish" class="form-control" />
+        <span class="text-danger" asp-validation-for="NameEnglish"></span>
+        <br /><br />
+
+        <label asp-for="Code">Code</label>                            @*// asp-for="....." because from model*@
+        <input type="text" asp-for="Code" class="form-control" />
+        <span class="text-danger" asp-validation-for="Code"></span>
+        <br /><br />
+
+
+        <label asp-for="Notes">Notes</label>                            @*// asp-for="....." because from model*@
+        <textarea asp-for="Notes" class="form-control" rows="4"></textarea>
+        <span class="text-danger" asp-validation-for="Notes"></span>
+        <br /><br />
+
+
+
+        <center>
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </center>
+
+    </form>
+</div>
+
+<script src="~/plugins/jquery/jquery.min.js"></script>
+<script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+<script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+

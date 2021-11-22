@@ -1,0 +1,15 @@
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\HrProject.DAL.deps.json
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\HrProject.DAL.dll
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\ref\HrProject.DAL.dll
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\HrProject.DAL.pdb
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.AssemblyInfoInputs.cache
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.AssemblyInfo.cs
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.csproj.CoreCompileInputs.cache
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.dll
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\ref\HrProject.DAL.dll
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.pdb
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\HrProject.DAL.runtimeconfig.json
+H:\el gendy core\HR\HrProject\HrProject.DAL\bin\Debug\net5.0\HrProject.DAL.runtimeconfig.dev.json
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.genruntimeconfig.cache
+H:\el gendy core\HR\HrProject\HrProject.DAL\obj\Debug\net5.0\HrProject.DAL.csproj.AssemblyReference.cache
